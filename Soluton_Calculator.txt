@@ -1,0 +1,13 @@
+                                   Solution for Calculator Application
+   
+
+ • Create a project name
+First, open Python3 software and create a project name(any name)
+after generating a project name, then click the create button .
+    • Create a python file
+    • Name your python file
+Third, after generating a python file, name it(any name), and click 'Enter'.
+    • Copy and paste the code to the python3 environment.
+and try to run them.
+With this calculator, it can allows the user to do a mathematical process, by select any number in the calculator interface and by selecting any operation in the the calcuulator, it will gives you a correct answer in the calculator textbox
+Thank you.

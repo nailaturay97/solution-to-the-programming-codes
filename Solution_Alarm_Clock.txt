@@ -1,0 +1,15 @@
+                        Solution for Alarm Clock Application
+   
+ • Create a project name
+First, open Python3 software and create a project name(any name)
+after generating a project name, then click the create button .
+    • Create a python file
+    • Name your python file
+Third, after generating a python file, name it(any name), and click 'Enter'.
+    • Copy and paste the code to the python3 environment.
+and try to run them.
+With this project in Python, I have successfully made the Alarm Clock.
+ I used the GUI library for rendering graphics on a display window.
+ I to extract the current time from the computer and to use it for manipulation.
+ I can set an alarm in the computer interface using python programming which rings
+ with the default machine sound for Windows.
